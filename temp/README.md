@@ -1,0 +1,1 @@
+This is Temporary Folder where grayscale images of the binary files are stored for scanning

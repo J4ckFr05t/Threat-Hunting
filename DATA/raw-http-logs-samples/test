@@ -1,0 +1,1 @@
+192.168.4.25 - - [22/Dec/2016:16:40:18 +0300] "POST /index.php/component/search/ HTTP/1.1" 500 2021 "http://192.168.4.161/DVWA" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.21"
