@@ -10,4 +10,4 @@ Threat Hunting is a proactive approach towards securing a computer system.  It h
 
 **Architecture :**
 
-![](https://gitlab.com/Bl4ckh4t/threat-hunting/uploads/84914a83fd406bf0c3d47c64f3a9a06b/Proposed_method_schematic.jpeg)
+![Proposed_method_schematic](https://user-images.githubusercontent.com/69065994/197840283-79799b74-3e97-499a-8654-c859da8c22bf.jpeg)
